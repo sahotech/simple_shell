@@ -1,7 +1,6 @@
 <h2>This is a team project for simple shell.</h2>
-
 <h1>Authors:</h1>
 <ul>
-<li>Peter Saho <a href="sahotech06@gmail.com"</a>sahotech06@gmail.com</li>
-<li>Kesta Nyavor <a href="add youe email address here"</a>add email here</li>
+<li>Peter Saho </li>
+<li>Kesta Nyavor</li>
 </ul>
