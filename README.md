@@ -2,6 +2,6 @@
 
 <h1>Authors:</h1>
 <ul>
-<li>Peter Saho <a href="www.sahotech06@gmail.com"</a>www.sahotech06@gmail.com</li>
+<li>Peter Saho <a href="sahotech06@gmail.com"</a>sahotech06@gmail.com</li>
 <li>Kesta Nyavor <a href="add youe email address here"</a>add email here</li>
 </ul>
